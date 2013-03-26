@@ -1,0 +1,12 @@
+
+features
+[ dirt ] -> [ kriole.py ]
+
+gesture
+[ trigger ] -> [ dirt ]
+
+point
+[ dirt ] -> [ kriole.py ]
+
+grain
+[ kriole ] -> [ dirt ]

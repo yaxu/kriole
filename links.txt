@@ -1,0 +1,5 @@
+http://marsyasweb.appspot.com/
+http://vamp-plugins.org/
+http://vamp-plugins.org/develop.html
+http://www.fftw.org/
+http://omras2.org/SonicAnnotator
