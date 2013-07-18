@@ -6,5 +6,8 @@ create table chunk (
   chunk int,
   v_pitch double,
   v_flux double,
-  index(value)
+  v_centroid double,
+  index(v_pitch),
+  index(v_flux),
+  index(v_centroid)
 );
